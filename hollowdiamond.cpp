@@ -1,3 +1,4 @@
+// you have to give input of the odd numbers only --- 
 #include <iostream>
 using namespace std;
 
